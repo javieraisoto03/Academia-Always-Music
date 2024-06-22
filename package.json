@@ -1,0 +1,17 @@
+{
+  "name": "gestion-estudiantes-postgres",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Aplicación para gestión de estudiantes en PostgreSQL con manejo de errores y consultas parametrizadas.",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.12.0"
+  }
+}
